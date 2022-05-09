@@ -8,7 +8,7 @@ Non faces images used:</br>
 https://drive.google.com/drive/folders/1a8S_qYtxVz5yYyyV0-fADpnxGL4AaQum?usp=sharing
 </br></br>
 
-Problem Statement
+Problem Statement:</br>
 We intend to perform face recognition. Face recognition means that for a given image you can tell the subject id. Our database of subject is very simple. It has 40 subjects.</br></br>
 Steps done in this Assignment:
 1. Download the Dataset and Understand the Format (ORL dataset)
